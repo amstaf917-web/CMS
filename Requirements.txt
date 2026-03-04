@@ -1,7 +1,0 @@
-
-streamlit
-pyzbar
-pandas
-matplotlib
-opencv-python-headless
-
